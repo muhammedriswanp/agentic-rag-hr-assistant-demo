@@ -1,7 +1,4 @@
-# agentic-rag-hr-assistant-demo
-Agentic RAG vs Traditional RAG — HR Policy Q&amp;A with query reformulation
-
-# Day 32 – Agentic RAG: HR Policy Assistant
+# Agentic RAG: HR Policy Assistant Demo
 
 Comparison of Traditional RAG vs Agentic RAG using an HR Policy document.
 
