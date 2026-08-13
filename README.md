@@ -8,7 +8,7 @@ Comparison of Traditional RAG vs Agentic RAG using an HR Policy document.
 ## Run
 
 ```bash
-pip install -r requirements.txt
+uv sync
 python traditional_rag.py
 python agentic_rag.py
 ```
