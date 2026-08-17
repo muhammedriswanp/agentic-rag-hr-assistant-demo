@@ -154,3 +154,4 @@ if __name__ == "__main__":
         print(f"   [Total Retrievals: {result['total_retrievals']} | Time: {result['time_taken']}s]")
 
     print("\n Agentic RAG complete.")
+    
